@@ -1,0 +1,12 @@
+C:\Users\Furkan\Desktop\Dersler\CS\TelefonKayıtları\bin\Debug\TelefonKayıtları.exe.config
+C:\Users\Furkan\Desktop\Dersler\CS\TelefonKayıtları\bin\Debug\TelefonKayıtları.exe
+C:\Users\Furkan\Desktop\Dersler\CS\TelefonKayıtları\bin\Debug\TelefonKayıtları.pdb
+C:\Users\Furkan\Desktop\Dersler\CS\TelefonKayıtları\obj\Debug\TelefonKayıtları.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\Dersler\CS\TelefonKayıtları\obj\Debug\TelefonKayıtları.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\Desktop\Dersler\CS\TelefonKayıtları\obj\Debug\TelefonKayıtları.Form1.resources
+C:\Users\Furkan\Desktop\Dersler\CS\TelefonKayıtları\obj\Debug\TelefonKayıtları.Properties.Resources.resources
+C:\Users\Furkan\Desktop\Dersler\CS\TelefonKayıtları\obj\Debug\TelefonKayıtları.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\Dersler\CS\TelefonKayıtları\obj\Debug\TelefonKayıtları.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Dersler\CS\TelefonKayıtları\obj\Debug\TelefonKayıtları.exe
+C:\Users\Furkan\Desktop\Dersler\CS\TelefonKayıtları\obj\Debug\TelefonKayıtları.pdb
+C:\Users\Furkan\Desktop\Dersler\CS\TelefonKayıtları\obj\Debug\TelefonKayıtları.Contacts.resources
