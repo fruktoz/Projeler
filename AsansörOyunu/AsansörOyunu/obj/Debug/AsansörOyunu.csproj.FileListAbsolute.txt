@@ -1,0 +1,11 @@
+C:\Users\Furkan\Desktop\Dersler\CS\AsansörOyunu\AsansörOyunu\bin\Debug\AsansörOyunu.exe.config
+C:\Users\Furkan\Desktop\Dersler\CS\AsansörOyunu\AsansörOyunu\bin\Debug\AsansörOyunu.exe
+C:\Users\Furkan\Desktop\Dersler\CS\AsansörOyunu\AsansörOyunu\bin\Debug\AsansörOyunu.pdb
+C:\Users\Furkan\Desktop\Dersler\CS\AsansörOyunu\AsansörOyunu\obj\Debug\AsansörOyunu.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\Dersler\CS\AsansörOyunu\AsansörOyunu\obj\Debug\AsansörOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\Desktop\Dersler\CS\AsansörOyunu\AsansörOyunu\obj\Debug\AsansörOyunu.Form1.resources
+C:\Users\Furkan\Desktop\Dersler\CS\AsansörOyunu\AsansörOyunu\obj\Debug\AsansörOyunu.Properties.Resources.resources
+C:\Users\Furkan\Desktop\Dersler\CS\AsansörOyunu\AsansörOyunu\obj\Debug\AsansörOyunu.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\Dersler\CS\AsansörOyunu\AsansörOyunu\obj\Debug\AsansörOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Dersler\CS\AsansörOyunu\AsansörOyunu\obj\Debug\AsansörOyunu.exe
+C:\Users\Furkan\Desktop\Dersler\CS\AsansörOyunu\AsansörOyunu\obj\Debug\AsansörOyunu.pdb
